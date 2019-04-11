@@ -28,7 +28,8 @@ REQUIRES = [
     'python-socketio',
     'deepdiff',
     'python-dateutil',
-    'pid'
+    'pid',
+    'evdev'
 ]
 
 setup(
